@@ -1,0 +1,8 @@
+pandas
+numpy
+networkx
+scikit-learn
+openpyxl
+gspread
+gspread-dataframe
+google-auth
